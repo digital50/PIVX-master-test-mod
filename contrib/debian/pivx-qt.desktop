@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=GoCoinMe
+Comment=GoCoinMe P2P Cryptocurrency
+Comment[fr]=GoCoinMe, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=GoCoinMe, eşten eşe kriptografik sanal para birimi
+Exec=gocoinme-qt %u
+Terminal=false
+Type=Application
+Icon=gocoinme128
+MimeType=x-scheme-handler/gocoinme;
+Categories=Office;Finance;
